@@ -1,6 +1,6 @@
 # sellapp_manager
 
-> A Vue.js project
+> 初始的vue项目,有vue-router、vue-lazyload、vuex、axios、jquery@3.3.1、bootstrap@4.x
 
 ## Build Setup
 
